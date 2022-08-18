@@ -11,7 +11,7 @@ The dataset chosen here contains 42000 samples.
 
 ## Metrics:
 
-We will use the accuracy score to quantify the performance of our model. The accuracy will tell us what percentage of our test data was classified correctly. The accuracy is a good metric choice because it will be easy to compare our model’s performance to that of the benchmark as it uses the same metric. Using KNN, the accuracy came out to be 96%
+We will use the accuracy score to quantify the performance of our model. The accuracy will tell us what percentage of our test data was classified correctly. The accuracy is a good metric choice because it will be easy to compare our model’s performance to that of the benchmark as it uses the same metric.
 1. Built a Neural Network to recognise hand written digits on MNIST dataset from Scratch
 2. Applied different Activation Function and loss function like MSE and Cross Entropy for comparing results
 3. Implemented Weight Initialisation, Regularisation and Dropout and achieved an Accuracy of 97%
